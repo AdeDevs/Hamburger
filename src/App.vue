@@ -15,5 +15,4 @@ export default {
 
 <style>
 @import './styles/index.css';
-@import './styles/reset.css'
 </style>
