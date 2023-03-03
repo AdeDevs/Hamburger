@@ -1,6 +1,13 @@
 <template>
     <div>
-        <h1>Home Page</h1>
+        <section class="nav-bar">
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+                <li>Projects</li>
+            </ul>
+        </section>
     </div>
 </template>
 
