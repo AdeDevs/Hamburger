@@ -4,6 +4,7 @@
     width: 300px;
     padding: 10px 0px 10px 20px;
     border: 1px solid red;
+    box-sizing: border-box;
     border-radius: 10px;
     background-color: #000;
 }

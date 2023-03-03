@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Montserrat&family=Poppins&display=swap');
 
 .nav-bar {
-    background-color: rgb(78, 78, 78);
+    background-color: rgb(0, 0, 0);
     width: 100%;
     display: inline-flex;
     align-items: center ;
@@ -29,6 +29,16 @@
 }
 
 .nav-bar ul li:hover {
-    border-bottom: 2px solid limegreen;
+    border-bottom: 2px solid red;
     transition: 200ms;
+}
+
+.card-list {
+    flex-wrap: wrap;
+    display: inline-flex;
+    width: 100%;
+}
+
+.card-list div {
+    margin: 5px auto;
 }

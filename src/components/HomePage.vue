@@ -9,7 +9,32 @@
                 <li>Projects</li>
             </ul>
         </section>
-        <Card />
+        <section class="card-list">
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div> 
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div> 
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+            <div> <Card /> </div>
+        </section> 
     </div>
 </template>
 
