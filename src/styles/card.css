@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Montserrat&family=Poppins&display=swap');
+
+.card {
+    width: 300px;
+    padding: 10px 0px 10px 20px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+.card h1 {
+    font-size: 20px;
+    font-family: 'Comfortaa', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+
+.card p {
+    font-family: 'Poppins', sans-serif;
+    font-size: .8em;
+    margin-bottom: 15px;
+}
+
+.card button {
+    border: 1px solid red;
+    background-color: transparent;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.card button:hover {
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+}
