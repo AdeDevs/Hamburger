@@ -1,6 +1,6 @@
 <template>
     <header>
-        <nav>
+        <nav class="navbar">
             <a href="#" class="nav-branding">ADEYEMI</a>
 
             <ul class="nav-menu">
