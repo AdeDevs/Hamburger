@@ -25,7 +25,7 @@
 export default {
     name: "TutorialNav"
 }
-alert("Been on this for a month")
+// alert("Been on this for a month")
 </script>
 
 <style>
