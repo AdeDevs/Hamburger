@@ -17,15 +17,19 @@
                     <a href="#" class="nav-link">Contact</a>
                 </li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
     </header>
 </template>
 
-<script>
+<script defer>
 export default {
-    name: "TutorialNav"
+    name: "TutorialNav",
 }
-// alert("Been on this for a month")
 </script>
 
 <style>
